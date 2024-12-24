@@ -1,0 +1,11 @@
+D:\GL3\sem1\Framework ASP.net\MoviesCleanArchitecture\Domain\bin\Debug\net6.0\Domain.deps.json
+D:\GL3\sem1\Framework ASP.net\MoviesCleanArchitecture\Domain\bin\Debug\net6.0\Domain.dll
+D:\GL3\sem1\Framework ASP.net\MoviesCleanArchitecture\Domain\bin\Debug\net6.0\Domain.pdb
+D:\GL3\sem1\Framework ASP.net\MoviesCleanArchitecture\Domain\obj\Debug\net6.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\GL3\sem1\Framework ASP.net\MoviesCleanArchitecture\Domain\obj\Debug\net6.0\Domain.AssemblyInfoInputs.cache
+D:\GL3\sem1\Framework ASP.net\MoviesCleanArchitecture\Domain\obj\Debug\net6.0\Domain.AssemblyInfo.cs
+D:\GL3\sem1\Framework ASP.net\MoviesCleanArchitecture\Domain\obj\Debug\net6.0\Domain.csproj.CoreCompileInputs.cache
+D:\GL3\sem1\Framework ASP.net\MoviesCleanArchitecture\Domain\obj\Debug\net6.0\Domain.dll
+D:\GL3\sem1\Framework ASP.net\MoviesCleanArchitecture\Domain\obj\Debug\net6.0\refint\Domain.dll
+D:\GL3\sem1\Framework ASP.net\MoviesCleanArchitecture\Domain\obj\Debug\net6.0\Domain.pdb
+D:\GL3\sem1\Framework ASP.net\MoviesCleanArchitecture\Domain\obj\Debug\net6.0\ref\Domain.dll

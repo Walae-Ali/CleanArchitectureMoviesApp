@@ -1,0 +1,17 @@
+D:\GL3\sem1\Framework ASP.net\MoviesCleanArchitecture\Infrastructure\bin\Debug\net6.0\Infrastructure.deps.json
+D:\GL3\sem1\Framework ASP.net\MoviesCleanArchitecture\Infrastructure\bin\Debug\net6.0\Infrastructure.runtimeconfig.json
+D:\GL3\sem1\Framework ASP.net\MoviesCleanArchitecture\Infrastructure\bin\Debug\net6.0\Infrastructure.dll
+D:\GL3\sem1\Framework ASP.net\MoviesCleanArchitecture\Infrastructure\bin\Debug\net6.0\Infrastructure.pdb
+D:\GL3\sem1\Framework ASP.net\MoviesCleanArchitecture\Infrastructure\bin\Debug\net6.0\Domain.dll
+D:\GL3\sem1\Framework ASP.net\MoviesCleanArchitecture\Infrastructure\bin\Debug\net6.0\Domain.pdb
+D:\GL3\sem1\Framework ASP.net\MoviesCleanArchitecture\Infrastructure\obj\Debug\net6.0\Infrastructure.csproj.AssemblyReference.cache
+D:\GL3\sem1\Framework ASP.net\MoviesCleanArchitecture\Infrastructure\obj\Debug\net6.0\Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\GL3\sem1\Framework ASP.net\MoviesCleanArchitecture\Infrastructure\obj\Debug\net6.0\Infrastructure.AssemblyInfoInputs.cache
+D:\GL3\sem1\Framework ASP.net\MoviesCleanArchitecture\Infrastructure\obj\Debug\net6.0\Infrastructure.AssemblyInfo.cs
+D:\GL3\sem1\Framework ASP.net\MoviesCleanArchitecture\Infrastructure\obj\Debug\net6.0\Infrastructure.csproj.CoreCompileInputs.cache
+D:\GL3\sem1\Framework ASP.net\MoviesCleanArchitecture\Infrastructure\obj\Debug\net6.0\Infrastructure.csproj.CopyComplete
+D:\GL3\sem1\Framework ASP.net\MoviesCleanArchitecture\Infrastructure\obj\Debug\net6.0\Infrastructure.dll
+D:\GL3\sem1\Framework ASP.net\MoviesCleanArchitecture\Infrastructure\obj\Debug\net6.0\refint\Infrastructure.dll
+D:\GL3\sem1\Framework ASP.net\MoviesCleanArchitecture\Infrastructure\obj\Debug\net6.0\Infrastructure.pdb
+D:\GL3\sem1\Framework ASP.net\MoviesCleanArchitecture\Infrastructure\obj\Debug\net6.0\Infrastructure.genruntimeconfig.cache
+D:\GL3\sem1\Framework ASP.net\MoviesCleanArchitecture\Infrastructure\obj\Debug\net6.0\ref\Infrastructure.dll
